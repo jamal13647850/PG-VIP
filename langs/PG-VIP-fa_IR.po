@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PG-VIP 1.0\n"
+"POT-Creation-Date: 2014-10-02 17:55+0330\n"
+"PO-Revision-Date: 2014-10-02 17:55+0330\n"
+"Last-Translator: jamal <jamal13647850@gmail.com>\n"
+"Language-Team:  <info@pgsavis.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\CMS\\giti02\\wp-content\\plugins\\PG-"
+"VIP\n"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:12
+msgid "One Month"
+msgstr "یک ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:13
+msgid "One Month VIP Price"
+msgstr "مبلغ عضویت ویژه یک ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:18
+msgid "Three Months"
+msgstr "سه ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:19
+msgid "Three Months VIP Price"
+msgstr "مبلغ عضویت ویژه سه ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:24
+msgid "Six Months"
+msgstr "شش ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:25
+msgid "Six Months VIP Price"
+msgstr "مبلغ عضویت ویژه شش ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:29
+msgid "Twelve Months"
+msgstr "دوازده ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/Consts.php:30
+msgid "Twelve Months VIP Price"
+msgstr "مبلغ عضویت ویژه دوازده ماهه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:4
+msgid "VIP"
+msgstr "عضویت ویژه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:6
+msgid "Main Page"
+msgstr "صفحه اصلی"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:9
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:15
+msgid "VIP Users"
+msgstr "کاربران ویژه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:12
+msgid "Protected Files"
+msgstr "فایلهای محافظت شده"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:15
+msgid "Payments List"
+msgstr "لیست پرداختها"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:18
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:21
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:26
+msgid "About Plugin"
+msgstr "درباره افزونه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:21
+msgid "About plugin"
+msgstr "درباره افزونه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/admin_functions.php:25
+msgid "Ads"
+msgstr ""
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/customregister.php:33
+msgid "<strong>ERROR</strong>: You must include a first name."
+msgstr "<strong>خطا:</strong>شما باید نام  وارد نمایید."
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/customregister.php:36
+msgid "<strong>ERROR</strong>: You must include a last name."
+msgstr "<strong>خطا:</strong>شما باید نام خانوادگی وارد نمایید."
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/customregister.php:39
+msgid "<strong>ERROR</strong>: You must include a mobile number."
+msgstr "<strong>خطا:</strong>شما باید یک شماره همراه وارد نمایید."
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:20
+msgid "User Id"
+msgstr "آی دی کاربر"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:21
+msgid "User Name"
+msgstr "نام کاربر"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:22
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:23
+msgid "Expire Date"
+msgstr "تاریخ پایان"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:44
+msgid "VIP Files"
+msgstr "فایل محافظت شده"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:49
+msgid "ID"
+msgstr "آی دی"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:50
+msgid "File Name"
+msgstr "نام فایل"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:51
+msgid "Encrypted Name"
+msgstr "نام کد شده"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:52
+msgid "Upload Date"
+msgstr "بارگزاری فایل"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:53
+msgid "Short Code"
+msgstr "کد کوتاه"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:71
+msgid "Choose File:"
+msgstr "انتخاب فایل"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:73
+msgid "Upload File"
+msgstr "بارگزاری فایل"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:85
+msgid "Return Code"
+msgstr "کد خطا"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:93
+msgid " already exists."
+msgstr "وجود دارد."
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:108
+msgid "Stored in:"
+msgstr "ذخیره شد در:"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:184
+msgid "Save"
+msgstr "ذخیره"
+
+#: C:\wamp\www\CMS\giti02\wp-content\plugins\PG-VIP/inc/pages.php:185
+msgid "Reset"
+msgstr "بازگشت به پیش فرض"

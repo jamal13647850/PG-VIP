@@ -1,0 +1,95 @@
+.hide{
+	display:none ;
+}
+.show{
+	display:inline ;
+}
+.Thumb{
+	height:32px;
+	width:32px;
+}
+#pga_loader{
+    padding: 5px 15px;
+    background-color: #c00;
+    color:#EEE;
+    font-weight: bold;
+    position:absolute;
+    top:0px;
+    right:42%;
+    border-radius: 0 0 5px 5px;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    -o-border-radius: 0 0 5px 5px;
+    -ms-border-radius: 0 0 5px 5px;
+    display: none;
+}
+.pga_panel{
+    width: 100%;
+	height:35%;
+    padding: 5px;
+    border:1px solid #DDD;
+    margin: 10px auto;
+    position: relative;
+    overflow:hidden;
+    min-height: 200px;
+    background-color: #FFF;
+	overflow:scroll
+}
+.ActionTable{
+	width:100px;
+}
+.ActionTablew{
+	width:300px;
+}
+.pga_enable{
+	border-color:#000 !important;
+	}
+	
+.pgv-dashboard-box {
+    position: absolute;
+    top: 10%;
+    right: 50%;
+    width: 500px;
+    margin-right: -310px;
+    margin-top: 10px;
+    background: none repeat scroll 0% 0% #FAFAFA;
+    border: 1px solid #C9C9C9;
+    padding: 20px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.11);
+}
+.pgv-dashboard-box p {
+    font-family: yekan , "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 35px;
+    margin-top: -10px;
+    text-align: center;
+}
+.pgv-dashboard-box p a {
+    text-decoration: none;
+}
+.pgv-dashboard-files{
+		    position: absolute;
+    top: 40%;
+    right: 50%;
+    width: 500px;
+    margin-right: -310px;
+    margin-top: 10px;
+    background: none repeat scroll 0% 0% #FAFAFA;
+    border: 1px solid #C9C9C9;
+    padding: 20px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.11);
+
+}
+.pgv-dashboard-help{
+	    position: absolute;
+    top: 30%;
+    right: 50%;
+    width: 500px;
+    margin-right: -310px;
+    margin-top: 10px;
+    background: none repeat scroll 0% 0% #FAFAFA;
+    border: 1px solid #C9C9C9;
+    padding: 20px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.11);
+
+}

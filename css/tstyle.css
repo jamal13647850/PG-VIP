@@ -1,0 +1,153 @@
+.pgv-alert-box{
+    margin:0 auto;
+    width:50%;
+    background: none repeat scroll 0% 0% #E0E0E0;
+    border: 1px solid #C9C9C9;
+	border-radius:5px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.11);
+}	
+
+.pgv-alert-box p{
+	color: #06C;
+	font-size: 12pt;
+	text-align: center;
+	direction: rtl;
+	margin: 10px;
+	line-height: 25px;
+}
+
+.btn-success:hover, .btn-success:focus {
+    background-color: #419641;
+    background-position: 0px -15px;
+}
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success {
+    color: #FFF;
+    background-color: #47A447;
+    border-color: #398439;
+}
+.btn:hover, .btn:focus {
+    color: #333;
+    text-decoration: none;
+}
+a:hover, a:focus {
+    color: #2A6496;
+    text-decoration: underline;
+}
+a:active, a:hover {
+    outline: 0px none;
+}
+
+
+.btn-success {
+    background-image: linear-gradient(to bottom, #5CB85C 0px, #419641 100%);
+    background-repeat: repeat-x;
+    border-color: #3E8F3E;
+}
+.btn-default, .btn-primary, .btn-success, .btn-info, .btn-warning, .btn-danger {
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 1px rgba(0, 0, 0, 0.075);
+}
+.btn-success {
+    color: #FFF;
+    background-color: #5CB85C;
+    border-color: #4CAE4C;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857;
+    border-radius: 4px;
+    -moz-user-select: none;
+}
+.pgv-alert-box p a {
+    color: #428BCA;
+    text-decoration: none;
+}
+
+.pgv-alert-box p a {
+    text-decoration: none !important;
+}
+.jbtn{
+	background-color:#09F;
+	}
+.jinput{
+	border-color:#000 !important;
+	
+	}
+
+.payline_des{
+	
+	}
+.payment-form{
+	font-family: Tahoma;
+	font-size: 11px;
+	background: none repeat scroll 0 0 #EEEEEE;
+	float: right;
+}
+
+.payment-form table{
+	float: right;
+}
+
+.payment-form tr td {
+	padding: 2px;
+	border-bottom:   1px  solid #DDDDDD;
+}
+
+.payment-form .payline-input{
+	padding: 2px;
+	font-family: Tahoma;
+	font-size: 11px;
+	border: 1px solid #CCCCCC
+}
+
+.payment-form .payline-submit{
+	padding: 2px;
+	font-family: Tahoma;
+	font-size: 11px;
+	border: 1px solid #CCCCCC;
+	background: #FFFFFF;
+	width: 80px;
+}
+
+.payment-form .payline-submit:hover{
+	 cursor: pointer;
+	 background: #EEEEEE;
+}
+
+.payment-form .description-require{
+	color: #FF0000
+}
+
+.payment-form .description-field{
+	font-size: 10px;
+}
+
+.error-payment {
+    background: #FFB9B9  none  repeat  scroll 0;
+    font-size: 11px;
+    padding: 5px;
+    border:  1px  solid #FF0000;
+    border-radius: 3px;
+    float: right;
+    color: #CC0000;
+}
+
+.success-payment {
+    background: #B7FFB7  none  repeat  scroll 0;
+    font-size: 11px;
+    padding: 5px;
+    border:   1px  solid #009900;
+    border-radius: 3px;
+    float: right;
+    color: #006600;
+}
